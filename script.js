@@ -4,7 +4,7 @@
 // Get your free key at: https://openrouter.ai
 // =============================================
 
-const API_KEY = "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"; // Replace with your sk-or-... key
+const API_KEY = "YOUR_OPENROUTER_API_KEY"; // Replace with your sk-or-... key
 
 const API_URL = "https://openrouter.ai/api/v1/chat/completions";
 
